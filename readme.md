@@ -19,7 +19,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh2001-py&theme=dark" />
 
-###  Lets Connect:
+
 
 
 <h2>
