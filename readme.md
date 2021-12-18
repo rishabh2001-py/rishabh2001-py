@@ -4,7 +4,7 @@
 
 
 
-## 👀 I’m interested in Web development & Coding <br>
+## 👀 I’m interested in Web development & DSA Problem Solving <br>
 ## 🌱 I’m currently learning BlockChain and Dapps. <br>
 ## 💞️ I’m looking to collaborate on Web Development Projects & Peer Programming <br>
 ## Tools  & Technolgies:
