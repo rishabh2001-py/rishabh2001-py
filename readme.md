@@ -26,7 +26,7 @@
 Lets Connect:
 </h2>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rishabh-tripathi-4429081a3)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-tripathi-4429081a3/)
 [![Outlook Badge](https://img.shields.io/badge/-rishabhtripathi345@hotmail.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:rishabhtripathi345@j@hotmail.com)](mailto:rishabhtripathi345@hotmail.com)
 
 
