@@ -4,8 +4,8 @@
 
 
 
-## 👀 I’m interested in Web development & DSA Problem Solving <br>
-## 🌱 I’m currently learning BlockChain and Dapps. <br>
+## 👀 I’m interested in BackEnd Development & DSA Problem Solving <br>
+## 🌱 I’m currently learning SpringBoot. <br>
 ## 💞️ I’m looking to collaborate on Web Development Projects & Peer Programming <br>
 ## Tools  & Technolgies:
 
