@@ -4,9 +4,9 @@
 
 
 
-## 👀 I’m working as Full stack developer at Ninjacart  <br>
-## 🌱 I’m currently learning DevOps. <br>
-## 💞️ I’m looking to collaborate on Backend Projects & Peer Programming <br>
+## I’m working as Full stack developer at Ninjacart  <br>
+## I’m currently learning DevOps. <br>
+## I’m looking to collaborate on Backend Projects & Peer Programming <br>
 ## Tools  & Technolgies:
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=window&logoColor=white&color=2bbc8a)
